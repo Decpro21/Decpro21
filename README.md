@@ -1,0 +1,5 @@
+- 👋 Hi to all you, I’m @Decpro21
+- 👀 I’m interested in learning JS and others languages of computer. Sorry for my bad english.
+- 🌱 I’m currently learning javascript from zero, but with much enthusiasm.
+- 💞️ I’m looking to collaborate on alll you, if I can.
+- 📫 thats all for now.
